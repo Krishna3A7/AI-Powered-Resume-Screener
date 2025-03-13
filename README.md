@@ -15,35 +15,34 @@ Requirement Gathering
 🔹 Functional Requirements
 
 
-✔ Upload resumes in PDF/DOCX format.
+Upload resumes in PDF/DOCX format.
 
-✔ Extract relevant skills, education, and experience.
+Extract relevant skills, education, and experience.
 
-✔ Compare resumes with a given job description.
+Compare resumes with a given job description.
 
-✔ Rank resumes based on best match percentage.
+Rank resumes based on best match percentage.
 
-✔ Provide summary reports of the top candidates.
+Provide summary reports of the top candidates.
 
 🔹 Non-Functional Requirements
 
 
-✔ Should process multiple resumes at once.
+Should process multiple resumes at once.
 
-✔ Should work locally or be deployed as a web app.
+Should work locally or be deployed as a web app.
 
-✔ Should support different job descriptions dynamically.
+Should support different job descriptions dynamically.
 
 🔹 Tech Stack
 
 
+Programming Language: Python
 
-✔ Programming Language: Python
+Libraries: Spacy, Pandas, PyMuPDF, docx2txt, Scikit-Learn, OpenAI API
 
-✔ Libraries: Spacy, Pandas, PyMuPDF, docx2txt, Scikit-Learn, OpenAI API
+Front-end (optional): Flask (for Web App)
 
-✔ Front-end (optional): Flask (for Web App)
-
-✔ Deployment (optional): Streamlit
+Deployment (optional): Streamlit
 
 
